@@ -1,0 +1,25 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+Tool 1: Simple Calculator
+The calculator performs basic addition, subtraction, multiplication, and division.
+
+Tool 2: To-Do List
+The to-do list allows the user to add tasks, view tasks, and remove tasks while the program is running.
+
+Tool 3: Number Guessing Game
+The guessing game asks the user to guess a secret number and gives feedback until they guess correctly.
+
+MENU TEXT
+
+===== PERSONAL MINI-TOOLKIT =====
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+
+Concepts Used
+
+Simple Calculator: variables, input, conditionals, and f-strings.
+To-Do List: lists, loops, conditionals, and f-strings.
+Number Guessing Game: loops, conditionals, input, and f-strings.
+Main Menu: loop, if/elif/else, input, and f-strings.
